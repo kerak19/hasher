@@ -14,7 +14,7 @@ Argon2 is a key derivation function that was selected as the winner of the Passw
 package main
 
 import "fmt"
-import "github.com/ges-sh/hasher"
+import "github.com/kerak19/hasher"
 
 func main() {
 	hasher := hasher.Hasher{
